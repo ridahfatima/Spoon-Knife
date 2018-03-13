@@ -1,0 +1,5 @@
+GUI Name:Heat Wave Monitor
+GUI Description:This service provides a predicted value of temperatures in Fahrenheit depending on the Month and Day that you input.
+MONTH requires a month to be entered in the format 'MMM' and Day in Integer a value between 1 to 31 depending on the month.
+TMIN is the minimum temperature value of the day, and is an additional option which can be left to be 0 or the expected minimum temperature. The output value is in fahrenheit.
+GUI Link:  https://heat.azurewebsites.net/
